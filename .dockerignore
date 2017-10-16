@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/.git/
+**/.vs/
+**/Dockerfile*
+**/.dockerignore*
+**/.docker-compose*.yml
+infra
+**/global.json
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
