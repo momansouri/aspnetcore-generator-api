@@ -16,7 +16,7 @@ namespace test
         }
 
         [Fact]
-        public void CountShouldControlNumberOfResults()
+        public void CountShouldControlNumberOfResults1()
         {
             var range = new Range{Count = 3};
             var generated = range.Of(() => "");
